@@ -276,7 +276,7 @@ def main():
                     train_df = pd.read_csv("data/train.csv")
                     profile_df = pd.DataFrame([profile_data], columns=train_df.columns)
                     combined_df = pd.concat([train_df, profile_df], ignore_index=True)
-                    processed = st.session_state.pipeline.transform(combined_df)
+                    processed = st.session_state.pipeline.fit_transform(combined_df)
                     processed_profile = processed[processed["ID"] == 0].drop(["ID", "Is high risk"], axis=1)
                     prediction = st.session_state.model.predict(processed_profile)[0]
                     prediction_prob = st.session_state.model.predict_proba(processed_profile)[0]
