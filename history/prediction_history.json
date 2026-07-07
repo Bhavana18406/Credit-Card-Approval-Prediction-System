@@ -1,0 +1,25 @@
+[
+    {
+        "timestamp": "2026-07-07 20:00:00",
+        "approved": true,
+        "confidence": 95.5
+    },
+    {
+        "timestamp": "2026-07-07 21:33:44",
+        "input_data": {
+            "Gender": "Male",
+            "Age": 30,
+            "Marital Status": "Married",
+            "Family Size": 2,
+            "Dwelling Type": "House / apartment",
+            "Annual Income": "$50,000",
+            "Employment Status": "Working",
+            "Employment Length": "5 years",
+            "Education Level": "Secondary school",
+            "Owns Car": "Yes",
+            "Owns Property": "Yes",
+            "Has Work Phone": "Yes",
+            "Has Phone": "Yes",
+            "Has Email": "Yes"
+        },
+        "approved": 
