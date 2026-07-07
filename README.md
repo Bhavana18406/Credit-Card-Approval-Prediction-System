@@ -150,9 +150,6 @@ For each application, the system provides:
 - Additional financial analysis and stress testing modules
 - Batch prediction capabilities for multiple applications
 
-## Author
-
-**Keerthi Puvvadi**
 
 ## License
 
@@ -160,7 +157,7 @@ This project is licensed under the terms specified in the LICENSE file.
 
 ## Live Demo
 
-Live Demo: To be deployed
+Live Demo: https://credit-card-approval-tz8zvzevsfqc8tjvwxky7w.streamlit.app
 
 ## Screenshots
 
