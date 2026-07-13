@@ -339,7 +339,7 @@ Platform:
 
 Live Demo:
 
-https://credit-card-approval-tz8zvzevsfqc8tjvwxky7w.streamlit.app
+https://credit-card-approval-prediction-system-zecemst9xmvv9uygnzl2sq.streamlit.app/
 
 ---
 
