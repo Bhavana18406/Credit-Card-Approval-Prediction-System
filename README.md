@@ -177,7 +177,7 @@ docs/ER_Diagram.md
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/keerthipuvvadi1212/credit-card-Approval.git
+git clone https://github.com/Bhavana18406/credit-card-Approval.git
 
 cd credit-card-Approval
 ```
